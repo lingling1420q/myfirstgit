@@ -1,4 +1,0 @@
-myfirstgit
-==========
-
-my first git
