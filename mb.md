@@ -5,6 +5,7 @@
 ---> a) Roses is red,
 ---> a) Roses are red,
 <<<<<<< HEAD>>>>>>>>>
+>>>>>>> develop
 -ddbc--> a) Roses is red,
 new line 
 ---> a) Roses is red,
@@ -14,3 +15,4 @@ new line
   window.alert('it's a good exprence');
 }`
 新的冲突产生
+}`test branch
