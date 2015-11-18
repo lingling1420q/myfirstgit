@@ -4,4 +4,5 @@
 ---> a) Roses are red,
 ---> a) Roses is red,
 ---> a) Roses are red,
----> a) Roses is red,
+-ddbc--> a) Roses is red,
+new line 
